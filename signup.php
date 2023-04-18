@@ -11,7 +11,7 @@ if ($conn == false) {
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $number = $_REQUEST['number'];
-$username = $_REQUEST['username'];
+$username = $_REQUEST['username'];  
 $password = $_REQUEST['password'];
 // Performing insert query execution
 // here our table name is college

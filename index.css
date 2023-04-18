@@ -1,5 +1,6 @@
 .btn {
   background-color: #2a265f;
+  /* background: url("bg.svg"), linear-gradient(to right, #43baff, #b835ff); */
   border: 0;
   border-radius: 50px;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
